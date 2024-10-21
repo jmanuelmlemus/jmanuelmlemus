@@ -1,6 +1,6 @@
 <div align="center">
   <h1><b> 👋 Welcome to my code cave, I'm José! </b></h1>
-  <h2><b> 🚀 I am an aspiring CiberSecurity Professional studying at 42 Luxembourg.</b></h2>
+  <h2><b> 🚀 I am an aspiring CyberSecurity Professional studying at 42 Luxembourg.</b></h2>
 </div>
 
 ## About me
